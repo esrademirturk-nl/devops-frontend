@@ -86,7 +86,7 @@ function App() {
           <p className="hero-copy">
             Aşağıdaki uçlardan birine istek gönder, gelen cevabı ve gecikmeyi
             anında gör. Frontend ile backend arasındaki bağlantıyı test etmenin
-            en basit yolu.
+            en basit yolu. (v1.1 güncellemesi)
           </p>
           <p className="hero-target">
             hedef <span>{API_URL}</span>
